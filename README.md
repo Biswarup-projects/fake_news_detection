@@ -66,6 +66,7 @@ The dataset used for this project is a labeled collection of news articles consi
 - TensorFlow ≥ 2.x  
 - NumPy, Pandas, Matplotlib, Scikit-learn  
 - Jupyter Notebook / Google Colab
+-  Downloads the pre-trained GloVe embeddings from the following link. http://nlp.stanford.edu/data/glove.6B.zip
 
 ---
 
