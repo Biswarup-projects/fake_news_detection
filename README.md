@@ -74,3 +74,7 @@ The dataset used for this project is a labeled collection of news articles consi
 Model evaluation metrics are reported with a detailed confusion matrix and classification report, highlighting the model’s ability to differentiate fake vs real news.
 
 ---
+
+## 🧠 Author
+- **Biswarup Majumdar**  
+- Data Science Enthusiast | [LinkedIn](https://linkedin.com/in/biswarup-majumdar)
